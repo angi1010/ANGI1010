@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>shortcodes - Tag - Abhinav Angi</title>
+        <link>https://example.org/tags/shortcodes/</link>
+        <description>shortcodes - Tag - Abhinav Angi</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 15 Aug 2021 01:04:16 &#43;0200</lastBuildDate><atom:link href="https://example.org/tags/shortcodes/" rel="self" type="application/rss+xml" /><item>
+    <title>How to create a website using Hugo Framwork and host it on GitHub</title>
+    <link>https://example.org/theme-documentation-built-in-shortcodes/</link>
+    <pubDate>Sun, 15 Aug 2021 01:04:16 &#43;0200</pubDate>
+    <author>Author</author>
+    <guid>https://example.org/theme-documentation-built-in-shortcodes/</guid>
+    <description><![CDATA[<p>Step-by-step easy to follow up tutorial to build websites using <strong>Hugo</strong> and host it on <strong>Github</strong>.</p>
+<p><strong>Abhinav Angi</strong></p>]]></description>
+</item><item>
+    <title>Theme Documentation - Extended Shortcodes</title>
+    <link>https://example.org/theme-documentation-extended-shortcodes/</link>
+    <pubDate>Tue, 03 Mar 2020 16:29:41 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://example.org/theme-documentation-extended-shortcodes/</guid>
+    <description><![CDATA[<p><strong>uBlogger</strong> theme provides multiple shortcodes on top of built-in ones in Hugo.</p>]]></description>
+</item></channel>
+</rss>
