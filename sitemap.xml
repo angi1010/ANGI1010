@@ -11,6 +11,7 @@
             <loc>https://example.org/posts/</loc><lastmod>2021-08-15T23:24:07&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.org/tags/shortcodes/</loc><lastmod>2021-08-15T23:24:07&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.org/tags/</loc><lastmod>2021-08-15T23:24:07&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
+            <loc>https://example.org/about/</loc><lastmod>2021-08-15T23:24:07&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.org/tags/configuration/</loc><lastmod>2021-08-15T23:24:07&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.org/tags/installation/</loc><lastmod>2021-08-15T23:24:07&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.org/theme-documentation-basics/</loc><lastmod>2021-08-15T23:24:07&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
@@ -20,5 +21,4 @@
             <loc>https://example.org/tags/html/</loc><lastmod>2021-08-15T23:24:07&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.org/categories/markdown/</loc><lastmod>2021-08-15T23:24:07&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.org/tags/emoji/</loc><lastmod>2021-08-15T23:24:07&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
-            <loc>https://example.org/about/</loc><lastmod>2021-08-15T23:24:07&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url><url>
             <loc>https://example.org/categories/documentation/</loc><lastmod>2021-08-15T23:24:07&#43;02:00</lastmod><changefreq>weekly</changefreq><priority>1</priority></url></urlset>
