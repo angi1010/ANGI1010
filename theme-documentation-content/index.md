@@ -490,7 +490,6 @@ The escape character syntax can help you build the content you wanted:
 ```markdown
 {{??}X} -> X
 ```
-{% endraw %}
 
 For example, two `:` will enable emoji syntax, which is not the behavior you want. The escape character syntax is like this:
 
@@ -515,4 +514,4 @@ Another example is:
 The rendered output looks like this:
 
 **[link{?]}(#escape-character)** instead of **[link](#escape-character)**.
-
+{% endraw %}
